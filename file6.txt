@@ -1,0 +1,4 @@
+Math: (150l)-(50pr).
+Physics: (100l)-(56r)-(50l).
+English: (150l)-(50pr).
+Chemistry: (100l)-(50pr)-(50l).
